@@ -1,7 +1,7 @@
 # Sistema de Importacao Treinamento
 This system will automate some manual and repetitive tasks, so that it can be performed quickly and free of human errors. 
 
-## Stackholder context
+## Stakeholder context
 My team is responsible for setting up work equipment for new employees. When the training takes place, the responsible department sends us a database in Excel 
 Spreadsheet format with the information of the new employees, so we start the following process:
 
